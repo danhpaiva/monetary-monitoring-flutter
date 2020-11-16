@@ -38,6 +38,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - IDE: <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 - API: <a href="https://docs.awesomeapi.com.br/api-de-moedas">Awesome API</a>
+- Flutter: <a href="https://flutter.dev/docs/get-started/install">1.22.4</a>
 
 <h2 id=autor>:grin: Autores</h2>
 
