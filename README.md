@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="screenshot/ac-money.jpeg" alt="AC Money">
+    <img src="screenshot/ac-money.jpeg" height="50" alt="AC Money">
   </a>
 </p>
 <p align="center">
