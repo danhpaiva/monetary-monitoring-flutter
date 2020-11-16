@@ -41,7 +41,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <h2 id=autor>:grin: Autores</h2>
 
-Desenvolvido por <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Daniel Paiva</a>,
+Desenvolvido por <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Daniel Paiva</a>.
 
 <h2 id=licenca>:lock: Licença</h2>
 <a href="https://github.com/danhpaiva/login-csharp-sqlServer/blob/master/LICENSE" target="_blank">MIT</a>
