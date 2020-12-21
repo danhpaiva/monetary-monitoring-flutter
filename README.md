@@ -1,4 +1,4 @@
-<h1 align="center">AC Money - App Mobile</h1>
+<h1 align="center">AC Money</h1>
 
 <p align="center">
   <a href="#">
