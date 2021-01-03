@@ -40,7 +40,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - API: <a href="https://docs.awesomeapi.com.br/api-de-moedas">Awesome API</a>
 - Flutter: <a href="https://flutter.dev/docs/get-started/install">1.22.4</a>
 
-<h2 id=autor>:grin: Autores</h2>
+<h2 id=autor>:grin: Autor</h2>
 
 Desenvolvido por <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Daniel Paiva</a>.
 
